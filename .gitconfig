@@ -1,0 +1,7 @@
+[user]
+	name = alecmagnani
+	email = alecmagnani@gmail.com
+[credential]
+	helper = osxkeychain
+[core]
+	excludesfile = /Users/alecmagnani/.gitignore
